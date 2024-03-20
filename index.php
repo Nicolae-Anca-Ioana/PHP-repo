@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    <p>test</p>
     <include src="/proiect_final/public/index.php"></include>
 </body>
 </html>
